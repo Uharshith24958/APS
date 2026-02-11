@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Uharshith24958/APS/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Uharshith24958/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Uharshith24958/APS/tree/master/0946-validate-stack-sequences) |
 ## Binary Search
 |  |
@@ -21,9 +22,11 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Uharshith24958/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Uharshith24958/APS/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Uharshith24958/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Uharshith24958/APS/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
