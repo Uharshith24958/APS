@@ -22,6 +22,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Uharshith24958/APS/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Uharshith24958/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Uharshith24958/APS/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -29,4 +30,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Uharshith24958/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Uharshith24958/APS/tree/master/0946-validate-stack-sequences) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Uharshith24958/APS/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
