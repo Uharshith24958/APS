@@ -15,6 +15,7 @@
 | [0704-binary-search](https://github.com/Uharshith24958/APS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Uharshith24958/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Uharshith24958/APS/tree/master/0946-validate-stack-sequences) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uharshith24958/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0735-asteroid-collision](https://github.com/Uharshith24958/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Uharshith24958/APS/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Uharshith24958/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uharshith24958/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -41,4 +43,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Uharshith24958/APS/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Uharshith24958/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uharshith24958/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
