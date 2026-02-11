@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Uharshith24958/APS/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/Uharshith24958/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Uharshith24958/APS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
@@ -64,10 +65,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Uharshith24958/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Uharshith24958/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Uharshith24958/APS/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Uharshith24958/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Uharshith24958/APS/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
