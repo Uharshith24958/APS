@@ -22,6 +22,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Uharshith24958/APS/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Uharshith24958/APS/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Uharshith24958/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Uharshith24958/APS/tree/master/0946-validate-stack-sequences) |
@@ -38,5 +39,6 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Uharshith24958/APS/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Uharshith24958/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
