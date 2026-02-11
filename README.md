@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Uharshith24958/APS/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Uharshith24958/APS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/Uharshith24958/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Uharshith24958/APS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -75,4 +76,16 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Uharshith24958/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Uharshith24958/APS/tree/master/0160-intersection-of-two-linked-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Uharshith24958/APS/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Uharshith24958/APS/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Uharshith24958/APS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
