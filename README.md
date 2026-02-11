@@ -61,6 +61,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Uharshith24958/APS/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Uharshith24958/APS/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Uharshith24958/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Uharshith24958/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -78,6 +79,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Uharshith24958/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Uharshith24958/APS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/Uharshith24958/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Uharshith24958/APS/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -100,4 +102,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uharshith24958/APS/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Uharshith24958/APS/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Uharshith24958/APS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
