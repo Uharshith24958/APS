@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Uharshith24958/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2235-add-two-integers](https://github.com/Uharshith24958/APS/tree/master/2235-add-two-integers) |
 ## Prefix Sum
 |  |
 | ------- |
