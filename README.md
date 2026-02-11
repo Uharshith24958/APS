@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Uharshith24958/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Uharshith24958/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Uharshith24958/APS/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Uharshith24958/APS/tree/master/0704-binary-search) |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Uharshith24958/APS/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Uharshith24958/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
