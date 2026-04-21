@@ -24,6 +24,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Uharshith24958/APS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uharshith24958/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Uharshith24958/APS/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Uharshith24958/APS/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Uharshith24958/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Uharshith24958/APS/tree/master/0496-next-greater-element-i) |
@@ -151,6 +152,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Uharshith24958/APS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Uharshith24958/APS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Uharshith24958/APS/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Uharshith24958/APS/tree/master/0547-number-of-provinces) |
@@ -161,6 +163,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Uharshith24958/APS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Uharshith24958/APS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Uharshith24958/APS/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Uharshith24958/APS/tree/master/0542-01-matrix) |
@@ -174,6 +177,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Uharshith24958/APS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Uharshith24958/APS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Uharshith24958/APS/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
@@ -191,6 +195,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Uharshith24958/APS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Uharshith24958/APS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Uharshith24958/APS/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Uharshith24958/APS/tree/master/0994-rotting-oranges) |
