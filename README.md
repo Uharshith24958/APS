@@ -29,6 +29,7 @@
 | [0200-number-of-islands](https://github.com/Uharshith24958/APS/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Uharshith24958/APS/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Uharshith24958/APS/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Uharshith24958/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/Uharshith24958/APS/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Uharshith24958/APS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Uharshith24958/APS/tree/master/0695-max-area-of-island) |
@@ -48,6 +49,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Uharshith24958/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/Uharshith24958/APS/tree/master/0704-binary-search) |
 ## Stack
 |  |
@@ -127,6 +129,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Uharshith24958/APS/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Uharshith24958/APS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Uharshith24958/APS/tree/master/0190-reverse-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Uharshith24958/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1763-longest-nice-substring](https://github.com/Uharshith24958/APS/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uharshith24958/APS/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Uharshith24958/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Queue
 |  |
 | ------- |
@@ -241,4 +245,16 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Uharshith24958/APS/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/Uharshith24958/APS/tree/master/1763-longest-nice-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Uharshith24958/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Uharshith24958/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Uharshith24958/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
