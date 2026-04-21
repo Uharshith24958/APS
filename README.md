@@ -148,19 +148,23 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Uharshith24958/APS/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Uharshith24958/APS/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Uharshith24958/APS/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Uharshith24958/APS/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Uharshith24958/APS/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Uharshith24958/APS/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
