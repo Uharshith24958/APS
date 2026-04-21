@@ -155,6 +155,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Uharshith24958/APS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uharshith24958/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Uharshith24958/APS/tree/master/0542-01-matrix) |
 ## Sorting
@@ -169,6 +170,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Uharshith24958/APS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Uharshith24958/APS/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Uharshith24958/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Uharshith24958/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -270,4 +272,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Uharshith24958/APS/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Uharshith24958/APS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
