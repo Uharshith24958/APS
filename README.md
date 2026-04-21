@@ -27,6 +27,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Uharshith24958/APS/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Uharshith24958/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Uharshith24958/APS/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/Uharshith24958/APS/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Uharshith24958/APS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Uharshith24958/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Uharshith24958/APS/tree/master/0739-daily-temperatures) |
@@ -149,17 +150,20 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uharshith24958/APS/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Uharshith24958/APS/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uharshith24958/APS/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Uharshith24958/APS/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Uharshith24958/APS/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uharshith24958/APS/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Uharshith24958/APS/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -170,5 +174,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Uharshith24958/APS/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Uharshith24958/APS/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
