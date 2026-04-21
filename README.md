@@ -24,6 +24,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Uharshith24958/APS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Uharshith24958/APS/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Uharshith24958/APS/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uharshith24958/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Uharshith24958/APS/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Uharshith24958/APS/tree/master/0198-house-robber) |
@@ -264,6 +265,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Uharshith24958/APS/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Uharshith24958/APS/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/Uharshith24958/APS/tree/master/1763-longest-nice-substring) |
 ## Binary Indexed Tree
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Uharshith24958/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Uharshith24958/APS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
