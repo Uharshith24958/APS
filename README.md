@@ -124,6 +124,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uharshith24958/APS/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Uharshith24958/APS/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Uharshith24958/APS/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -231,4 +232,8 @@
 | [0207-course-schedule](https://github.com/Uharshith24958/APS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Uharshith24958/APS/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Uharshith24958/APS/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Uharshith24958/APS/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
