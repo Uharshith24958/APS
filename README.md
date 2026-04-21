@@ -142,4 +142,20 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Uharshith24958/APS/tree/master/0219-contains-duplicate-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Uharshith24958/APS/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
