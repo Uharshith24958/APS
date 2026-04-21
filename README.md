@@ -82,6 +82,7 @@
 | [0721-accounts-merge](https://github.com/Uharshith24958/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/Uharshith24958/APS/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Uharshith24958/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1763-longest-nice-substring](https://github.com/Uharshith24958/APS/tree/master/1763-longest-nice-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0721-accounts-merge](https://github.com/Uharshith24958/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/Uharshith24958/APS/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/Uharshith24958/APS/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/Uharshith24958/APS/tree/master/1763-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Uharshith24958/APS/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Uharshith24958/APS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Uharshith24958/APS/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/Uharshith24958/APS/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Uharshith24958/APS/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/Uharshith24958/APS/tree/master/1763-longest-nice-substring) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,4 +240,5 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Uharshith24958/APS/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/Uharshith24958/APS/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
